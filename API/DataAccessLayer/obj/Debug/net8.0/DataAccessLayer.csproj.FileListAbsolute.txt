@@ -10,3 +10,15 @@ C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

@@ -167,3 +167,7 @@ C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\obj\Debug\net8.0\refint\
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\obj\Debug\net8.0\AppAPI.pdb
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\obj\Debug\net8.0\AppAPI.genruntimeconfig.cache
 C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\obj\Debug\net8.0\ref\AppAPI.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Documents\GitHub\profileWeb\API\AppAPI\bin\Debug\net8.0\EntityLayer.pdb
