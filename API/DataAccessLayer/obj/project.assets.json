@@ -4123,19 +4123,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\remou\\.nuget\\packages\\": {}
+    "C:\\Users\\Huseyin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\remou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\Huseyin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\remou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Huseyin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4150,8 +4150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

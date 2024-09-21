@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\remou\\.nuget\\packages\\": {}
+    "C:\\Users\\Huseyin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\EntityLayer\\EntityLayer.csproj",
-      "packagesPath": "C:\\Users\\remou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\EntityLayer\\obj\\",
+      "projectPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\EntityLayer.csproj",
+      "packagesPath": "C:\\Users\\Huseyin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\remou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Huseyin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\",
+  "WorkspaceRootPath": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\dataaccesslayer\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\dataaccesslayer\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\businesslayer\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\businesslayer\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E8F62B-42A2-449F-8A39-CF1559D733FD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BA6F7-1CCD-4DE9-8E42-48AAA29E7077}|EntityLayer\\EntityLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\entitylayer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BA6F7-1CCD-4DE9-8E42-48AAA29E7077}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BA6F7-1CCD-4DE9-8E42-48AAA29E7077}|EntityLayer\\EntityLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\entitylayer\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BA6F7-1CCD-4DE9-8E42-48AAA29E7077}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\huseyin\\documents\\github\\profileweb\\api\\dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +50,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Concrete\\UserManager.cs*",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\UserManager.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:28:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:27:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:27:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:26:25.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "EntityLayer\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:26:01.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\EntityLayer\\Concrete\\User.cs*",
+              "RelativeToolTip": "EntityLayer\\Concrete\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:25:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:24:44.285Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EFUserDal.cs",
-              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
-              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs*",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:44:33.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs*",
-              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T01:39:29.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs*",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs*",
+              "ToolTip": "C:\\Users\\Huseyin\\Documents\\GitHub\\profileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T01:37:29.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T01:37:29.402Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
