@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\remou\\desktop\\profileweb\\api\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C07531-B58E-49E2-B5E3-EB2939F7503B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\EntityFramework\\EFUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:44:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:39:29.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\remou\\Desktop\\ProfileWeb\\API\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:37:29.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
